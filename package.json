@@ -1,0 +1,30 @@
+{
+  "name": "wrap",
+  "version": "1.0.0",
+  "description": "A method to wrap or modulo a number into an arbitrary range.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "number",
+    "modulo",
+    "wrap"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/wrap.git"
+  },
+  "homepage": "https://github.com/bunnybones1/wrap",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/wrap/issues"
+  }
+}
