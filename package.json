@@ -1,5 +1,5 @@
 {
-  "name": "wrap",
+  "name": "number-wrap",
   "version": "1.0.0",
   "description": "A method to wrap or modulo a number into an arbitrary range.",
   "main": "index.js",
@@ -15,16 +15,17 @@
     "test": "node test.js"
   },
   "keywords": [
+    "math",
     "number",
     "modulo",
     "wrap"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bunnybones1/wrap.git"
+    "url": "git://github.com/bunnybones1/number-wrap.git"
   },
-  "homepage": "https://github.com/bunnybones1/wrap",
+  "homepage": "https://github.com/bunnybones1/number-wrap",
   "bugs": {
-    "url": "https://github.com/bunnybones1/wrap/issues"
+    "url": "https://github.com/bunnybones1/number-wrap/issues"
   }
 }
